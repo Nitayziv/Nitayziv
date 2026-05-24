@@ -37,7 +37,7 @@ I am an Electrical and Electronics Engineer specializing in hardware development
 
 ### 📫 Let's Connect
 
-I am actively seeking roles in PCB Design and Hardware Integration. 
+I am actively seeking roles in PCB Design and Hardware Integration. ''
 
 *   **LinkedIn:** [Your LinkedIn Profile URL](https://linkedin.com/in/yourprofile)
 *   **Email:** [Your Email Address](mailto:your.email@example.com)
